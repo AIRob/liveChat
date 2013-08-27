@@ -3,7 +3,6 @@ oauth==1.0.1
 protobuf==2.4.1
 pyOpenSSL==0.12
 pycrypto==2.4.1
-pycups==1.9.61
 pycurl==7.19.0
 pymongo==2.6
 simplejson==2.3.2
