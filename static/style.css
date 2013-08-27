@@ -1,0 +1,107 @@
+body{
+font-family:tahoma;
+color: #5B5B5B;
+text-align:justify;
+font-size:11px;
+margin:0px;
+background-image:url(images/bg.jpg); background-repeat:repeat-x;}
+#outer
+{width:779px;}
+.name
+{font-size:30px;
+padding-left:20px;
+font-family:arial;
+height:65px;
+color:#ffffff;}
+.tag
+{padding-left:20px;
+font-size:18px;
+font-family:arial;
+color:#ffffff;}
+.toplinks
+{width:144px;
+height:43px;
+font-size:13px;
+font-weight:bold;
+text-align:center;
+font-family:arial;
+color:#ffffff;}
+.toplinks a
+{color:#ffffff;
+background-image:url(images/off.jpg); background-repeat:no-repeat;
+display:block;
+height:43px;
+line-height:43px;
+text-decoration:none;}
+.toplinks a:hover
+{color:#ffffff;
+background-image:url(images/on.jpg); background-repeat:no-repeat;
+text-decoration:none;}
+.sap
+{width:1px;}
+#header
+{background-image:url(images/bg2.jpg); background-repeat:repeat-x;
+height:172px;}
+.heading
+{background-image:url(images/heading-bg.gif); background-repeat:repeat-x;
+height:42px;
+font-size:12px;
+color:#ffffff;
+padding-left:15px;
+font-weight:bold;
+text-transform:uppercase;}
+.leftlinks
+{height:25px;
+background-image:url(images/arrow.gif); background-repeat:no-repeat; background-position:center left;
+font-size:11px;
+border-bottom:1px solid #ffffff;}
+.leftlinks a
+{text-decoration:none;
+color:#5B5B5B;
+padding-left:10px;}
+.leftlinks a:hover
+{text-decoration:underline;
+color:#5B5B5B;}
+.c1
+{color:#5B5B5B;
+font-size:11px;}
+.c2
+{color:#FF7F00;
+font-size:15px;
+font-weight:bold;}
+.c3
+{color:#454545;
+font-size:12px;
+padding-left:12px;
+font-weight:bold;}
+.thumbs
+{width:273px;
+height:244px;
+background-color:#F5F5F5;}
+.c4
+{color:#454545;
+text-transform:uppercase;
+font-size:11px;
+padding-left:12px;
+font-weight:bold;}
+#main
+{padding-left:10px;
+padding-bottom:10px;}
+a{color:#D53906;
+text-decoration:underline;}
+a:hover{color:#D53906;
+text-decoration:none;}
+.sap
+{color:#ffffff;}
+.bottomlinks
+{width:153px;
+text-align:center;}
+.bottomlinks a
+{width:153px;
+text-decoration:none;
+color:#ffffff;}
+.bottomlinks a:hover
+{color:#000000;}
+#bottom
+{background-image:url(images/bottom.gif); background-repeat:repeat-x;
+height:43px;}
